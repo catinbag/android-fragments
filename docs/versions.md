@@ -1,5 +1,7 @@
 # Versions
 
+This is the branch `compat/agp-8.1.1`: AGP 8.1.1 and Gradle 8.0. The tables below describe `master` (AGP 8.3.1, Gradle 8.4). Everything else is the same.
+
 ## Master
 
 | Item | Version | Where |
