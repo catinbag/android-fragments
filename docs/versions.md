@@ -1,5 +1,7 @@
 # Versions
 
+This is the branch `compat/agp-7.4`: AGP 7.4.2, Gradle 7.5, `compileSdk` and `targetSdk` 33, `fragment` 1.6.2, `material` 1.9.0, `activity` 1.7.2. `EdgeToEdge` is removed from `app`. The root `build.gradle.kts` pins `kotlin-stdlib-jdk7` and `jdk8` to 1.8.10. The tables below describe `master` (AGP 8.3.1, Gradle 8.4, `compileSdk` 34). Everything else is the same.
+
 ## Master
 
 | Item | Version | Where |
