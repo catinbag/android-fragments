@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Checked = the bug is on. All items are unchecked by default: the code is correct. -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bug_no_state_check"
+        android:checkable="true"
+        android:title="@string/bug_no_state_check"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/bug_constructor"
+        android:checkable="true"
+        android:title="@string/bug_constructor"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/bug_call_after_commit"
+        android:checkable="true"
+        android:title="@string/bug_call_after_commit"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment communication</string>
+    <string name="screen_interface">Interface</string>
+    <string name="screen_viewmodel">ViewModel</string>
+    <string name="rate">Rate</string>
+    <string name="my_rating_none">No rating yet</string>
+    <string name="my_rating_format">My rating: %d</string>
+    <string name="sheet_title_format">Rate: %s</string>
+    <string name="bug_observe_this">Bug: observe(this)</string>
+</resources>

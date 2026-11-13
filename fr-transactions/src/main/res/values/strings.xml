@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment transactions</string>
+    <string name="hint_default">Select a movie</string>
+    <string name="bug_no_state_check">Bug: no savedInstanceState check</string>
+    <string name="bug_constructor">Bug: constructor with parameter</string>
+    <string name="bug_call_after_commit">Bug: call after commit() (one shot)</string>
+</resources>

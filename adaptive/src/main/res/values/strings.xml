@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="select_movie">Select a movie</string>
+</resources>

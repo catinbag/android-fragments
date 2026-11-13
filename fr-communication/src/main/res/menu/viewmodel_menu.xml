@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Checked = the bug is on. Unchecked by default: the code is correct. -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bug_observe_this"
+        android:checkable="true"
+        android:title="@string/bug_observe_this"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments basics</string>
+    <string name="screen_static">Static</string>
+    <string name="screen_lifecycle">Lifecycle</string>
+    <string name="open_details">Details</string>
+    <string name="list_title">List</string>
+    <string name="details_title">Details</string>
+</resources>
